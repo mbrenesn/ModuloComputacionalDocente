@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
+#include <sys/time.h>
 #include <omp.h>
 
 // Solves the 2D diffusion equation for a temperature field as a function of time
